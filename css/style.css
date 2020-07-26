@@ -245,6 +245,9 @@ Word Table
 #word { 
     background-image: url("../img/seventies.png");
 }
+#word p{
+    background: rgba(100,100,100, .60);
+}
 .word-table {
     box-shadow: 0px 0px 1px 0px RGBA(0, 0, 0, 0.4);
     position: relative;
