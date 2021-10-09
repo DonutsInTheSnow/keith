@@ -364,6 +364,13 @@ h2  {
     box-shadow: 2px 3px 10px #555555;
 }
 
+#feature .list-group-item {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+#feature .dropdown-menu.show {
+  background-color: rgb(60, 60, 60);
+}
 
 /***********************************
 Faculty
