@@ -3,7 +3,7 @@
 ** Parallax ** is used. I like this feature. It's tempermental in mobile browsers.
 
 ## Tasks to accomplish
-``` Here's a checklist
+``` Here is a checklist
 ---
 
 - [x] Parallax added
