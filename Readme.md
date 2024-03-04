@@ -3,7 +3,7 @@
 ** Parallax ** is used. I like this feature. It's tempermental in mobile browsers.
 
 ## Tasks to accomplish
-``` Here is a checklist
+Here's a checklist Muthafluffer:
 ---
 
 - [x] Parallax added
