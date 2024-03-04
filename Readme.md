@@ -9,5 +9,6 @@
 - [x] Parallax added
 - [ ] Practice Markdown language here in ~Readme.txt~ Readme.md
 
-Author: Ri'h Ri'h
-Author URL: https://richhudson.org
+Author: *Ri'h Ri'h*
+[Author URL:](https://richhudson.org)
+
